@@ -9051,10 +9051,10 @@ ETC_20150317_009051	Earring
 ETC_20150317_009052	Brief description
 ETC_20150317_009053	Model set
 ETC_20150317_009054	Size
-ETC_20150317_009055	Equipment Merchant
-ETC_20150317_009056	Accessory Merchant
+ETC_20150317_009055	Marchand d'équipement
+ETC_20150317_009056	Marchand d'accessoires
 ETC_20150317_009057	Announcement (Great Cathedral ad)
-ETC_20150317_009058	Ladies excited
+ETC_20150317_009058	Dame enthousiaste
 ETC_20150317_009059	Manage the hide and seek
 ETC_20150317_009060	Highlander Master Room
 ETC_20150317_009061	Pyromancer Master Room
@@ -9173,12 +9173,12 @@ ETC_20150317_009173	Equipment Trade Point Shop
 ETC_20150317_009174	{memo X}Soul Peak_1_2
 ETC_20150317_009175	[Rodelero Master]{nl} Kamiya
 ETC_20150317_009176	[Squire Master]{nl} Justina Legwyn
-ETC_20150317_009177	[Thaumaturge Master]{nl} Larisa
+ETC_20150317_009177	[Maître des thaumaturges]{nl} Larisa
 ETC_20150317_009178	{memo X}[Elementalist Master]{nl} Wican Celestic
 ETC_20150317_009179	[Scout Master]{nl} Recon Rimgaile
 ETC_20150317_009180	[Sadhu Master]{nl} Agota Hanska
-ETC_20150317_009181	[Wugushi Master]{nl} Wor Pat
-ETC_20150317_009182	{memo X}[Rogue Master]{nl}         Gema
+ETC_20150317_009181	[Maître des wugushi]{nl} Wor Pat
+ETC_20150317_009182	{memo X}[Maître des voleurs]{nl}         Gema
 ETC_20150317_009183	{memo X}[Tools Merchant]{nl}            Anna
 ETC_20150317_009184	{memo X}[Equipment Merchant]{nl}                   Yorgis
 ETC_20150317_009185	[Hackapell Master]{nl} Flint Boulder
@@ -9191,24 +9191,24 @@ ETC_20150317_009191	Practice Post (Fire)
 ETC_20150317_009192	Practice Post (Poison)
 ETC_20150317_009193	Practice Post (Electricity)
 ETC_20150317_009194	Practice Post (Earth)
-ETC_20150317_009195	{memo X}[Item Merchant]{nl}         Mirina
-ETC_20150317_009196	[Equipment Merchant]{nl}                 Dunkel
-ETC_20150317_009197	[Accessory Merchant]{nl}                Ronesa
-ETC_20150317_009198	Klaipeda Goddess Statue
-ETC_20150317_009199	[Blacksmith]{nl}       Zaras
+ETC_20150317_009195	{memo X}[Marchand d'objet]{nl}         Mirina
+ETC_20150317_009196	[Marchand d'équipement]{nl}                 Dunkel
+ETC_20150317_009197	[Marchand d'accessoires]{nl}                Ronesa
+ETC_20150317_009198	Statue de la déese Klaipeda
+ETC_20150317_009199	[Forgeron]{nl}       Zaras
 ETC_20150317_009200	[Peltasta Master]{nl}     Maria Leed
-ETC_20150317_009201	[Cryomancer Master]{nl}    Alistair Crowley
+ETC_20150317_009201	[Maître des cryomancer]{nl}    Alistair Crowley
 ETC_20150317_009202	[Quarrel Shooter Master]{nl}              Ream Toiler
 ETC_20150317_009203	[Ranger Master]{nl}       Nemoken
-ETC_20150317_009204	[Swordsman Master]{nl}              Rashua
-ETC_20150317_009205	[Wizard Master]{nl}        Lucia
-ETC_20150317_009206	[Archer Master]{nl} Edmundas Tiller
-ETC_20150317_009207	[Cleric Master]{nl}       Rozaliia
-ETC_20150317_009208	[Priest Master]{nl}       Boruble
+ETC_20150317_009204	[Maître des épéiste]{nl}              Rashua
+ETC_20150317_009205	[Maître des mages]{nl}        Lucia
+ETC_20150317_009206	[Maître des archer]{nl} Edmundas Tiller
+ETC_20150317_009207	[Maître des clercs]{nl}       Rozaliia
+ETC_20150317_009208	[Maître des prêtres]{nl}       Boruble
 ETC_20150317_009209	[Krivis Master]{nl}       Herkus
 ETC_20150317_009210	{memo X}[Auctioneer]{nl} Demares
 ETC_20150317_009211	[Market Manager]{nl}             Logi
-ETC_20150317_009212	[Companion Trader]{nl}            Christina
+ETC_20150317_009212	[Marchande de compagnon]{nl}            Christina
 ETC_20150317_009213	{memo X}[Officer]{nl} Dortina
 ETC_20150317_009214	[Wings of Vibora]{nl}            Lena
 ETC_20150317_009215	[Magical Association Klaipeda Branch]{nl}                              Henrikka
@@ -11150,7 +11150,7 @@ ETC_20150414_011151	Obtained Elixir of King's voice
 ETC_20150414_011152	{memo X}You can only use it at the camp of Mausoleum guards
 ETC_20150414_011153	Opening the Gate
 ETC_20150414_011154	Crafting the Jewel of Prominence
-ETC_20150414_011155	Thank you. {nl}You saved my life.
+ETC_20150414_011155	Merci. {nl}Vous avez sauver ma vie.
 ETC_20150414_011156	I thought I was going to die. {nl}Thank you.
 ETC_20150414_011157	I think I am doing fine now..
 ETC_20150414_011158	I feel better..
@@ -11162,8 +11162,8 @@ ETC_20150414_011163	The candle is lit
 ETC_20150414_011164	It's a monster with the mark of purification
 ETC_20150414_011165	Nothing happened
 ETC_20150414_011166	All candles are lit
-ETC_20150414_011167	Help!
-ETC_20150414_011168	Please save me!
+ETC_20150414_011167	A l'aide !
+ETC_20150414_011168	S'il vous plaît sauver moi !
 ETC_20150414_011169	Summon monster
 ETC_20150414_011170	Enter party description
 ETC_20150414_011171	Amount entered is more than the amount you have, or you entered a negative number.
@@ -11212,14 +11212,14 @@ ETC_20150428_011213	Night Maiden
 ETC_20150428_011214	Demon Lord Nuaele
 ETC_20150428_011215	Poisonous Insect
 ETC_20150428_011216	{memo X}Explosion Trap
-ETC_20150428_011217	Fire Trap
-ETC_20150428_011218	Poison Trap
+ETC_20150428_011217	Piège de feu
+ETC_20150428_011218	Piège de poison
 ETC_20150428_011219	{memo X}Movement Restriction Trap
-ETC_20150428_011220	Pillar Trap
-ETC_20150428_011221	Reduced Movement Trap
-ETC_20150428_011222	Reduced Attack Trap
+ETC_20150428_011220	Piège de pillier
+ETC_20150428_011221	Piège de réduction de déplacement
+ETC_20150428_011222	Piège de réduction d'attaque
 ETC_20150428_011223	Restrained Attack Trap
-ETC_20150428_011224	Reduced Defense Trap
+ETC_20150428_011224	Piège de réduction de la défense
 ETC_20150428_011225	Taumas
 ETC_20150428_011226	Brown Rodelin
 ETC_20150428_011227	Panto Pathfinder
@@ -11231,7 +11231,7 @@ ETC_20150428_011232	Pyrokinetic Kelberos
 ETC_20150428_011233	Dark Chapparition
 ETC_20150428_011234	Royal Mausoleum Contructor's Chapel
 ETC_20150428_011235	Ugh.. What is this taste?
-ETC_20150428_011236	Defeat all the monsters!
+ETC_20150428_011236	Abattez tous les monstres !
 ETC_20150428_011237	Destroy the 2nd Transport Magic Circle restraining Grita!
 ETC_20150428_011238	This is restraining magic..{nl}It's a trap!
 ETC_20150428_011239	{memo X}Defeat the Salamander that appeared in the defense shield device!
@@ -11252,13 +11252,13 @@ ETC_20150428_011253	{memo X}Defeat monsters around the epitaph!
 ETC_20150428_011254	Defeat Demon Lord Blut!
 ETC_20150428_011255	Defeat Demon Lord Nuaele!
 ETC_20150428_011256	Tell Goddess Vakarine about Hauberk's escape!
-ETC_20150428_011257	Defeat 10,000 monsters
+ETC_20150428_011257	Tuer 10,000 monstres
 ETC_20150428_011258	Beginning of the Hunt
 ETC_20150428_011259	Slaughterer
-ETC_20150428_011260	Defeat 1,000,000 monsters
+ETC_20150428_011260	Exterminer 1,000,000 monstres
 ETC_20150428_011261	Familiar Hunt
 ETC_20150428_011262	Adventurer
-ETC_20150428_011263	Achieve 10,000 overkills
+ETC_20150428_011263	Réaliser 10,000 overkills
 ETC_20150428_011264	Basics of Combat
 ETC_20150428_011265	Judge
 ETC_20150428_011266	Achieve 100,000 overkills
