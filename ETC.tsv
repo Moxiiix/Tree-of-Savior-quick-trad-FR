@@ -1737,11 +1737,11 @@ ETC_20150317_001736	This item does not have enough sockets.
 ETC_20150317_001737	You have insufficient funds.
 ETC_20150317_001738	Level 1 or higher
 ETC_20150317_001739	any class
-ETC_20150317_001740	Swordsman 
+ETC_20150317_001740	Epéiste
 ETC_20150317_001741	Archer 
-ETC_20150317_001742	Cleric 
-ETC_20150317_001743	Wizard 
-ETC_20150317_001744	Not possible on this item.
+ETC_20150317_001742	Clerc
+ETC_20150317_001743	Mage 
+ETC_20150317_001744	Impossible sur cet objet.
 ETC_20150317_001745	This item is not equipped with a gem.
 ETC_20150317_001746	Please select a socket.
 ETC_20150317_001747	Show All
@@ -1754,7 +1754,7 @@ ETC_20150317_001753	Coat
 ETC_20150317_001754	Hat
 ETC_20150317_001755	Two-handed Spear
 ETC_20150317_001756	Place an item.
-ETC_20150317_001757	Gems
+ETC_20150317_001757	Gemmes
 ETC_20150317_001758	Socket
 ETC_20150317_001759	{nl}{nl}Number of magic amulets that can be equipped: {Remain}
 ETC_20150317_001760	Please select an item to repair.
@@ -1809,7 +1809,7 @@ ETC_20150317_001808	Défense physique
 ETC_20150317_001809	Increased defense when mounted
 ETC_20150317_001810	Increased evasion when mounted
 ETC_20150317_001811	Receive bonus HP when mounted
-ETC_20150317_001812	STR
+ETC_20150317_001812	FOR
 ETC_20150317_001813	CON
 ETC_20150317_001814	Bite
 ETC_20150317_001815	The Raleigh
@@ -1912,7 +1912,7 @@ ETC_20150317_001911	Attributes
 ETC_20150317_001912	{@st59} Click for more information {/}
 ETC_20150317_001913	The next skill level requires the same class advancement.
 ETC_20150317_001914	Use a Skill Point to increase its skill level.
-ETC_20150317_001915	Equipment
+ETC_20150317_001915	Equipement
 ETC_20150317_001916	Disabled
 ETC_20150317_001917	Enabled
 ETC_20150317_001918	Individual
@@ -1921,10 +1921,10 @@ ETC_20150317_001920	Random
 ETC_20150317_001921	Equal
 ETC_20150317_001922	By Level
 ETC_20150317_001923	View All
-ETC_20150317_001924	Swordsman
-ETC_20150317_001925	Wizard
+ETC_20150317_001924	Epéiste
+ETC_20150317_001925	Mage
 ETC_20150317_001926	Archer
-ETC_20150317_001927	Cleric
+ETC_20150317_001927	Clerc
 ETC_20150317_001928	{memo X}View Information
 ETC_20150317_001929	Channel
 ETC_20150317_001930	Do you want to move to channel {Channel}?
@@ -4153,8 +4153,8 @@ ETC_20150317_004152	Possible
 ETC_20150317_004153	{s18}{Auto_1}{Auto_2} Set Effect:
 ETC_20150317_004154	(Equipped)
 ETC_20150317_004155	(Unequipped)
-ETC_20150317_004156	Weapon
-ETC_20150317_004157	Equipment
+ETC_20150317_004156	Arme
+ETC_20150317_004157	Equipement
 ETC_20150317_004158	] The [
 ETC_20150317_004159	Do you want to equip it to ]?
 ETC_20150317_004160	 Level
@@ -4439,9 +4439,9 @@ ETC_20150317_004438	Nobble Vekarabe 3
 ETC_20150317_004439	Nobble Vekarabe 4
 ETC_20150317_004440	Unlucky Sculptures
 ETC_20150317_004441	Suspicious Solider
-ETC_20150317_004442	Recover HP
-ETC_20150317_004443	Weapons
-ETC_20150317_004444	Armor
+ETC_20150317_004442	Regénération PV
+ETC_20150317_004443	Armes
+ETC_20150317_004444	Armure
 ETC_20150317_004445	N/A
 ETC_20150317_004446	Goblin_Spear_red: Vubber Attacker: 24
 ETC_20150317_004447	Goblin_Spear: Vubber Attacker: 15 / Goblin_Spear: Vubber Attacker: 15 / Goblin_Spear: Vubber Attacker: 15 / Goblin_Archer_red: Vubber Attacker: 15
@@ -5755,7 +5755,7 @@ ETC_20150317_005754	Attack Weakened
 ETC_20150317_005755	Your attack is decreased and can continue to decrease more when stacked.
 ETC_20150317_005756	Defense Weakened
 ETC_20150317_005757	Your defense is decreased and can continue to decrease more when stacked.
-ETC_20150317_005758	Armor Break
+ETC_20150317_005758	Armure brisé
 ETC_20150317_005759	Temporarily removes the defense of your armor.
 ETC_20150317_005760	Make continuous damage to Human, wild animal monsters, If the different Human, wild animal monsters are closed then infection randomly.
 ETC_20150317_005761	Slow
@@ -5770,7 +5770,7 @@ ETC_20150317_005769	Temporarily cannot see your surroundings.
 ETC_20150317_005770	Improved defense.
 ETC_20150317_005771	Improved movement speed.
 ETC_20150317_005772	Improved attack.
-ETC_20150317_005773	Armor
+ETC_20150317_005773	Armure
 ETC_20150317_005774	Temporarily reflects an attack by 20%.
 ETC_20150317_005775	Shock Absorption
 ETC_20150317_005776	Creates a protective barrier that temporarily blocks all incoming damage.
