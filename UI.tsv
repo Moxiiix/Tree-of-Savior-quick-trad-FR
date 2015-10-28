@@ -752,7 +752,7 @@ UI_20150317_000751	{@st43}Sons{/}
 UI_20150317_000752	{memo X}{@st41b}Volume des effets sonore (%s){/}
 UI_20150317_000753	{memo X}{@st41b}Volume du son d'ambiance (%s){/}
 UI_20150317_000754	{memo X}{@st41b}Volume général (%s){/}
-UI_20150317_000755	{@st43}{b}Sélection de la langue{/}
+UI_20150317_000755	{@st43}{b}Langue{/}
 UI_20150317_000756	{@st59}Fermer la fenêtre{/}
 UI_20150317_000757	{memo X}Lowest-mode {@st41b} {/}
 UI_20150317_000758	{@st41b}View{/}
@@ -1511,7 +1511,7 @@ UI_20150428_001510	{@st41b}Rest Mode
 UI_20150428_001511	Joypad Tutorial
 UI_20150428_001512	{memo X}{@st59}Close Joypad Tutorial(M){/}
 UI_20150428_001513	Keyboard Tutorial
-UI_20150428_001514	{@st44}Logout{/}
+UI_20150428_001514	{@st44}Déconnexion{/}
 UI_20150428_001515	{memo X}{@st41b}Leave Helper(Requires %s iCoin){/}
 UI_20150428_001516	{memo X}Socket Addition Cost : {#ff9933}%s{/}{nl}Gem Removal Cost : {#ff9933}%s{/}
 UI_20150428_001517	{memo X}{@st41b}Remove Gem
@@ -1526,7 +1526,7 @@ UI_20150428_001525	Events
 UI_20150428_001526	{memo X}{@st41}Level Difference{/}
 UI_20150428_001527	{memo X}Not related
 UI_20150428_001528	{memo X}{@st41}Desired Class Type{/}
-UI_20150428_001529	{@st41b}Leave Party
+UI_20150428_001529	{@st41b}Quitter le groupe
 UI_20150428_001530	{memo X}{@st59}Search by party description{/}
 UI_20150428_001531	{s18}{ol}{gr gradation1}Helper Rules{/}
 UI_20150428_001532	{@st59}Proceed crafting{/}
@@ -1627,20 +1627,20 @@ UI_20150714_001626	Remaining Status Points {nl}{@st46}%s
 UI_20150714_001627	Likes Received : %s
 UI_20150714_001628	{memo X}{@st66b}Show EXP acquired{/}
 UI_20150714_001629	{@st66b}Show Character Name{/}
-UI_20150714_001630	{@st66b}Show Team Name only{/}
-UI_20150714_001631	{@st66b}Show Other Players' Names{/}
+UI_20150714_001630	{@st66b}Nom des groupes{/}
+UI_20150714_001631	{@st66b}Afficher noms des joueurs{/}
 UI_20150714_001632	{@st66b}Auto{/}
-UI_20150714_001633	{@st66b}Joypad{/}
-UI_20150714_001634	{@st66b}Keyboard{/}
-UI_20150714_001635	{@st66b}Mouse
-UI_20150714_001636	{@st66b}Full Screen{/}
-UI_20150714_001637	{@st66b}Windowed Mode{/}
-UI_20150714_001638	{@st66b}Sound Effects Volume (%s){/}
-UI_20150714_001639	{@st66b}BGM Volume (%s){/}
-UI_20150714_001640	{@st66b}Volume (%s){/}
-UI_20150714_001641	{@st66b}Low Mode{/}
-UI_20150714_001642	{@st66b}Auto Setup{/}
-UI_20150714_001643	{@st66b}Don't Use{/}
+UI_20150714_001633	{@st66b}Manette{/}
+UI_20150714_001634	{@st66b}Clavier{/}
+UI_20150714_001635	{@st66b}Souris
+UI_20150714_001636	{@st66b}Plein écran{/}
+UI_20150714_001637	{@st66b}Mode fenêtré{/}
+UI_20150714_001638	{@st66b}Volume des effets sonore (%s){/}
+UI_20150714_001639	{@st66b}Volume de la musique d'ambiance(%s){/}
+UI_20150714_001640	{@st66b}Volume Général (%s){/}
+UI_20150714_001641	{@st66b}Faible{/}
+UI_20150714_001642	{@st66b}Configuration auto{/}
+UI_20150714_001643	{@st66b}Ne rien utiliser{/}
 UI_20150714_001644	{@st66b}Apply Bloom{/}
 UI_20150714_001645	{@st66b}Apply Vignette{/}
 UI_20150714_001646	{@st66b}Apply FXAA{/}
