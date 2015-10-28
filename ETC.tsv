@@ -1708,22 +1708,22 @@ ETC_20150317_001707	Crafting Completed!
 ETC_20150317_001708	The name of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001709	The memo of the crafted item can be up to {Auto_1} characters.
 ETC_20150317_001710	Tree
-ETC_20150317_001711	Quest
-ETC_20150317_001712	Weapon
-ETC_20150317_001713	Armor
-ETC_20150317_001714	Two-handed Sword
-ETC_20150317_001715	Bow
-ETC_20150317_001716	Crossbow
+ETC_20150317_001711	Quêtes
+ETC_20150317_001712	Armes
+ETC_20150317_001713	Armures
+ETC_20150317_001714	Arme à deux mains
+ETC_20150317_001715	Arc
+ETC_20150317_001716	Arbalètes
 ETC_20150317_001717	One-Handed Sword
 ETC_20150317_001718	{memo X}Wand
 ETC_20150317_001719	Blunt
-ETC_20150317_001720	Other
-ETC_20150317_001721	Spear
-ETC_20150317_001722	Wand
+ETC_20150317_001720	Autre
+ETC_20150317_001721	Lance
+ETC_20150317_001722	Bâton
 ETC_20150317_001723	{nl} Do you want to add a socket?
 ETC_20150317_001724	{memo X}{nl} Do you want to extract this gem?
 ETC_20150317_001725	Would you like to create this item?
-ETC_20150317_001726	Material
+ETC_20150317_001726	Matériaux
 ETC_20150317_001727	{memo X}Ring
 ETC_20150317_001728	Choose this combination for the alchemy process?
 ETC_20150317_001729	Target Item
@@ -1876,7 +1876,7 @@ ETC_20150317_001875	Join
 ETC_20150317_001876	Obtained item
 ETC_20150317_001877	Accessory
 ETC_20150317_001878	Set
-ETC_20150317_001879	{memo X}Recipe
+ETC_20150317_001879	{memo X}Recette
 ETC_20150317_001880	Active Skill
 ETC_20150317_001881	Passive Skill
 ETC_20150317_001882	1. Write a message to promote your sale.
@@ -6170,9 +6170,9 @@ ETC_20150317_006170	{memo X}When a character dies in the dungeon, select
 ETC_20150317_006171	Resurrect at the nearest area
 ETC_20150317_006172	{memo X}to move to the dungeon entrance. {nl} Be careful when you're deep inside a dungeon!
 ETC_20150317_006173	{memo X}Gems can be obtained by hunting monsters and bosses in dungeons. {nl} Be careful, as the gems may be lost when you die.
-ETC_20150317_006174	Equipment
+ETC_20150317_006174	Equipement
 ETC_20150317_006175	Sub-Weapon
-ETC_20150317_006176	Consumable
+ETC_20150317_006176	Consommable
 ETC_20150317_006177	Companion Equipment
 ETC_20150317_006178	N/A
 ETC_20150317_006179	Spray - Black
@@ -16287,7 +16287,7 @@ ETC_20151022_016288	Ask the importance of the tombstones of Nestos
 ETC_20151022_016289	Ask the red energies that are coming from the tombstone
 ETC_20151022_016290	Crossbow Pistol
 ETC_20151022_016291	Recipe - Rapier
-ETC_20151022_016292	Recipe - 
+ETC_20151022_016292	Recettes - 
 ETC_20151022_016292	Recipe-Epee
 ETC_20151022_016293	Recipe-Sharp Raypear
 ETC_20151022_016294	Recipe-Duelist
