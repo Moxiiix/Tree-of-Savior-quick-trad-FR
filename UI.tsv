@@ -984,10 +984,10 @@ UI_20150317_000983	{@st59}Hairstyle8{/}
 UI_20150317_000984	{@st59}Hairstyle9{/}
 UI_20150317_000985	{@st59}Hairstyle10{/}
 UI_20150317_000986	{@St43b}Class Select{/}
-UI_20150317_000987	{@st59}Swordsman{/}
-UI_20150317_000988	{@st59}Wizard{/}
+UI_20150317_000987	{@st59}Epéiste{/}
+UI_20150317_000988	{@st59}Mage{/}
 UI_20150317_000989	{@st59}Archer{/}
-UI_20150317_000990	{@st59}Cleric{/}
+UI_20150317_000990	{@st59}Clerc{/}
 UI_20150317_000991	{@St41b}Visit Barrack {/}
 UI_20150317_000992	{@St59}Visit the Barrack of another player.{/}
 UI_20150317_000993	{@St41b}Logout{/}
