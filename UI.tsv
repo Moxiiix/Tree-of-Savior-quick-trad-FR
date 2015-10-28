@@ -1,4 +1,4 @@
-﻿UI_20150317_000001	{@st41b}Learn Attributes{nl}from the Masters of each class.{/}
+UI_20150317_000001	{@st41b}Learn Attributes{nl}from the Masters of each class.{/}
 UI_20150317_000002	{@st43}Attribute List {/}
 UI_20150317_000003	{@st59}Close the Attribute List {/}
 UI_20150317_000004	{@st43}Apprendre passif{/}
@@ -367,12 +367,12 @@ UI_20150317_000366	{@st59}Close the Market window{/}
 UI_20150317_000367	{@st42b}Sort
 UI_20150317_000368	{@st41b}Items for Sale
 UI_20150317_000369	{@st43}{s22}Item Cabinet
-UI_20150317_000370	{@st41b}Receive All
-UI_20150317_000371	{@st41b} Receive
-UI_20150317_000372	{@st43}{s22}Sell
+UI_20150317_000370	{@st41b}Tout récupérer
+UI_20150317_000371	{@st41b} Récupérer
+UI_20150317_000372	{@st43}{s22}Vendre
 UI_20150317_000373	{@st42b}Quantité
 UI_20150317_000374	{@st42b}Prix
-UI_20150317_000375	{@st42b}Hide Seller's Name{/}
+UI_20150317_000375	{@st42b}Masquer le nom du vendeur{/}
 UI_20150317_000376	{@st41b}Ajouter
 UI_20150317_000377	Siege Coin
 UI_20150317_000378	Someone killed someone
@@ -1360,9 +1360,9 @@ UI_20150323_001359	Request Buy-in
 UI_20150323_001360	{memo X}{@st59}Close Buy-in Shop
 UI_20150323_001361	{memo X}{@st59}Buy-in Shop{nl} - Trade your items for silver
 UI_20150323_001362	{memo X}{@st43}Items the buyer wants{/}
-UI_20150323_001363	{memo X}{@st43}Items for sale
-UI_20150323_001364	{memo X}{@st43}Total Profit
-UI_20150323_001365	{memo X}{@st41}Sell
+UI_20150323_001363	{memo X}{@st43}Objets à vendre
+UI_20150323_001364	{memo X}{@st43}Profit totale
+UI_20150323_001365	{memo X}{@st41}Vendre
 UI_20150323_001366	{@st41}Alchemy Materials
 UI_20150323_001367	{@st41}Alchemy Result {@stx1}(%s required){/}
 UI_20150323_001368	{@st59}Summon Pet{/}
@@ -1830,3 +1830,4 @@ UI_20151022_001829	{@st66b}Show Other Character's Effects
 UI_20151023_001830	{@st41b}iCoin{/}
 UI_20151023_001831	{@st41}iCoin
 UI_20151023_001832	iCoin
+
