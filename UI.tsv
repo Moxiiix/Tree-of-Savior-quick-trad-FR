@@ -261,9 +261,9 @@ UI_20150317_000260	{@st41b}Do you want to move to this area?{/}
 UI_20150317_000261	What about Siauliai
 UI_20150317_000262	Coin Consumed : 0
 UI_20150317_000263	Intro
-UI_20150317_000264	{@st43}Inventory{/}
-UI_20150317_000265	{@st59}Close Inventory{/}
-UI_20150317_000266	{memo X}{@st59b}Equipment {nl} {@st59s}- Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Pants, Gloves, Shoes. {nl} - Accessories: Can equip 1 Necklace and 2 Bracelets. {nl} {/}
+UI_20150317_000264	{@st43}Inventaire{/}
+UI_20150317_000265	{@st59}Fermer l'inventaire{/}
+UI_20150317_000266	{memo X}{@st59b}Equipement {nl} {@st59s}- Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armure: Torse, Jambières, Gants, Bottes. {nl} - Accessories: Can equip 1 Necklace and 2 Bracelets. {nl} {/}
 UI_20150317_000267	{@st59}Hairstyle Costume 1{/}
 UI_20150317_000268	{@st59}Hairstyle Costume 2{/}
 UI_20150317_000269	{@st59}Necklace{/}
@@ -355,17 +355,17 @@ UI_20150317_000354	{@st41}Create Minimap{/}
 UI_20150317_000355	{@st55}Area Map
 UI_20150317_000356	{@st43}{s22}Market{/}
 UI_20150317_000357	{@st43}{s24}Market{/}
-UI_20150317_000358	{@st42b}Filter{/}
+UI_20150317_000358	{@st42b}Filtre{/}
 UI_20150317_000359	{@st42b}Type{/}
 UI_20150317_000360	{@st42b}Req. Lv{/}
 UI_20150317_000361	{@st42b}Enhance Lv{/}
-UI_20150317_000362	{@st42b}Name
+UI_20150317_000362	{@st42b}Noms
 UI_20150317_000363	{@st41b}Item Cabinet%s
 UI_20150317_000364	{@st41b}Vendre
-UI_20150317_000365	{@st41b}Search
+UI_20150317_000365	{@st41b}Rechercher
 UI_20150317_000366	{@st59}Close the Market window{/}
 UI_20150317_000367	{@st42b}Sort
-UI_20150317_000368	{@st41b}Items for Sale
+UI_20150317_000368	{@st41b}Objets à vendre
 UI_20150317_000369	{@st43}{s22}Item Cabinet
 UI_20150317_000370	{@st41b}Tout récupérer
 UI_20150317_000371	{@st41b} Récupérer
@@ -420,7 +420,7 @@ UI_20150317_000419	Number of Fragments
 UI_20150317_000420	{memo X}Parts 1
 UI_20150317_000421	{memo X}Parts 2
 UI_20150317_000422	{memo X}Parts 3
-UI_20150317_000423	Congratulations! Your level has increased.
+UI_20150317_000423	Félications ! Vous êtes monter de niveau.
 UI_20150317_000424	Item Alarm
 UI_20150317_000425	{@st64}Details{/}
 UI_20150317_000426	How to Play
@@ -1127,7 +1127,7 @@ UI_20150317_001126	Basic content name
 UI_20150317_001127	Basic group name
 UI_20150317_001128	Basic item name
 UI_20150317_001129	Mr Kim
-UI_20150317_001130	Weight : %s
+UI_20150317_001130	Poids : %s
 UI_20150317_001131	N/A
 UI_20150317_001132	%S race
 UI_20150317_001133	N/A
@@ -1564,7 +1564,7 @@ UI_20150714_001563	{@st41b}Remove Refreshment Table
 UI_20150714_001564	{memo X}{@st42}My Summon Skill
 UI_20150714_001565	{@st42}Stat
 UI_20150714_001566	{memo X}{@st42}Current Location : %s{/}
-UI_20150714_001567	{@st59b}Equipment {nl}{@st59s} - Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: One-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with one-handed weapon) {nl} - Armor: Top, Pants, Gloves, Shoes. {nl} - Accessories: 1 Necklace and 2 Bracelets. {nl} {/}
+UI_20150714_001567	{@st59b}Equipement {nl}{@st59s} - Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: One-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with one-handed weapon) {nl} - Armure: Top, Pants, Gloves, Shoes. {nl} - Accessories: 1 Necklace and 2 Bracelets. {nl} {/}
 UI_20150714_001568	{@st43}Open %s Shop {/}
 UI_20150714_001569	{@st41b}Roasting{/}
 UI_20150714_001570	{@st66}Select All
@@ -1698,7 +1698,7 @@ UI_20150717_001697	{s40} {nl}Long hours playing the game can negatively affect y
 UI_20150717_001698	{@st66b}Enter
 UI_20150717_001699	{@st42}My Summon Info
 UI_20150717_001700	Your movement slows down when you do not have enough{@st59}STA{/}
-UI_20150717_001701	{@st59}Sorts your inventory{/}
+UI_20150717_001701	{@st59}Trier l'inventaire{/}
 UI_20150717_001702	{memo X}Sort
 UI_20150717_001703	{@st59}Close Joypad Control Info.{/}
 UI_20150717_001704	{@st59}Close Keyboard Control info.{/}
@@ -1706,11 +1706,11 @@ UI_20150717_001705	Mouse Tutorial
 UI_20150717_001706	{@st59}Close Mouse Control Info.{/}
 UI_20150717_001707	Attack : %s
 UI_20150717_001708	Defense : %s
-UI_20150717_001709	STR : %s
+UI_20150717_001709	FOR : %s
 UI_20150717_001710	CON : %s
 UI_20150717_001711	INT : %s
 UI_20150717_001712	DEX : %s
-UI_20150717_001713	SPR : %s
+UI_20150717_001713	ESP : %s
 UI_20150717_001714	{memo X}{@st42b}Swordsman types can dash by pressing the arrow key twice.{/}
 UI_20150717_001715	{@st42}Party Name & Description{/}
 UI_20150717_001716	{@st42}Insert Party Invite Tag
@@ -1786,7 +1786,7 @@ UI_20150918_001785	{#000000}Entry Level{/}
 UI_20150918_001786	{#000000}Entry Count{/}
 UI_20150918_001787	{#000000}The number of entries will reset at %s.{/}
 UI_20150918_001788	{img silver 20 20} Price
-UI_20150918_001789	Nearby Party Info
+UI_20150918_001789	Information groupe proche
 UI_20150918_001790	Required Fragments : %s 
 UI_20150918_001791	{@st66b}Empty
 UI_20150918_001792	{@st42}Show Nearby Parties{/}
@@ -1830,4 +1830,3 @@ UI_20151022_001829	{@st66b}Show Other Character's Effects
 UI_20151023_001830	{@st41b}iCoin{/}
 UI_20151023_001831	{@st41}iCoin
 UI_20151023_001832	iCoin
-
