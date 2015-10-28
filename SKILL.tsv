@@ -931,9 +931,9 @@ SKILL_20150317_000930	Additional Damage: +#{CaptionRatio2}#{nl}Number of Hits: #
 SKILL_20150317_000931	Restrain
 SKILL_20150317_000932	{memo X}Decreases your maximum HP, but increases your attack.
 SKILL_20150317_000933	{memo X}Physical Attack + #{CaptionRatio}#{nl}Maximum HP - #{CaptionRatio2}# {nl} Duration #{CaptionTime}# seconds
-SKILL_20150317_000934	Umbo Blow
+SKILL_20150317_000934	Coup de bouclier
 SKILL_20150317_000935	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack by bumping your shield. {nl} Inflicts more damage after blocking an enemy's attack.
-SKILL_20150317_000936	Rim Blow
+SKILL_20150317_000936	Coup de jante
 SKILL_20150317_000937	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Attack by using the edge of your shield. {nl} Inflicts more damage to both petrified and frozen enemies.
 SKILL_20150317_000938	Swash Buckling
 SKILL_20150317_000939	{memo X}$Strike your shield to provoke nearby enemies.
@@ -3610,8 +3610,8 @@ SKILL_20150414_003609	Increases your attack damage.
 SKILL_20150414_003610	Lowers your maximum HP, but your attacks have a high chance of stunning enemies.
 SKILL_20150414_003611	Chance of Stunning Enemy: #{CaptionRatio}#%{nl}Max. HP -#{CaptionRatio2}# {nl}Duration: #{CaptionTime}# seconds
 SKILL_20150414_003612	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Strike enemies with your sword handle.{nl}Inflicts additional damage on stunned monsters, and partially ignores the defense of small and medium sized enemies.
-SKILL_20150414_003613	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the bump of your shield to attack enemies. Blocking provides additional damage on staggered enemies.
-SKILL_20150414_003614	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use the edge of your shield to attack enemies. Inflicts additional damage on both petrified and frozen enemies.
+SKILL_20150414_003613	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Utilise le bouclier pour attaquer. Inflige des dégâts supplémentaires si l'attaque de l'ennemi a été au préalable bloqué.
+SKILL_20150414_003614	{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Utilise le coin du bouclier pour             attaquer. Inflige des dégâts                   supplémentaire sur les ennemis gelés.
 SKILL_20150414_003615	Hit your shield to provoke nearby enemies making them pursue you.
 SKILL_20150414_003616	Increases your defense while decreasing your attack. Cannot be used with Gung Ho.
 SKILL_20150414_003617	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Throw shield to attack. Shield dropped on ground may disappear if not picked up within time limit.
@@ -3993,7 +3993,7 @@ SKILL_20150414_003992	Item Awakening: Quick
 SKILL_20150414_003993	Decreases the amount of monsters in dungeons created with [Item Awakening] by 1.
 SKILL_20150414_003994	Item Awakening: Prompt Decision
 SKILL_20150414_003995	Decreases the amount of waves in dungeons created with [Item Awakening] by 1.
-SKILL_20150414_003996	Weapon Swap
+SKILL_20150414_003996	Changer d'armes
 SKILL_20150414_003997	{memo X}You can change weapon.
 SKILL_20150414_003998	Vendetta: Counter Attack
 SKILL_20150414_003999	Doubles the damage when hitting an enemy affected by the [Bleeding] status effect with [Vendetta].
@@ -4258,7 +4258,7 @@ SKILL_20150714_004257	Magic Amplification Increase
 SKILL_20150714_004258	Increase Magic Amplification
 SKILL_20150714_004259	Armor Penetration
 SKILL_20150714_004260	Decrease Physical Defense
-SKILL_20150714_004261	You can change weapons.
+SKILL_20150714_004261	Vous pouvez changer d'armes.
 SKILL_20150714_004262	Enables you to equip the [One-handed Sword] weapon type.
 SKILL_20150714_004263	Enables you to equip the [Two-handed Sword] weapon type.
 SKILL_20150714_004264	Enables you to equip the [One-handed Spear] weapon type.
@@ -5321,8 +5321,8 @@ SKILL_20151016_005320	Companion Mastery: Tenacity
 SKILL_20151016_005321	Companion's stamina consuming speed will be reduced.
 SKILL_20151016_005322	Companion emergency treatment
 SKILL_20151016_005323	When HP of a companion falls below 50%, receive [Emergency Treatment] to continuously recover HP. After [Emergency Treatment], you will become [Can't be treated] status.
-SKILL_20151016_005324	Shield Mastery: Block
-SKILL_20151016_005325	Increases Block by 5% per attribute level when equipped with a [Shield].
+SKILL_20151016_005324	Maîtrise du bouclier: Blocage
+SKILL_20151016_005325	Le blocage augmente de 5% par            niveau du passif quand un bouclier   est équipé.
 SKILL_20151016_005326	Double handed Swords Mastery: Critical Attack
 SKILL_20151016_005327	Skull Swing: Eliminate Knockback
 SKILL_20151016_005328	[Skull Swing] does not push away enemies anymore.(When the attribute is ON, you won't be pushed away.)
