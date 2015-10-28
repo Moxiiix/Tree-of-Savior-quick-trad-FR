@@ -1399,11 +1399,11 @@ QUEST_JOBSTEP_20150317_001398	The Priest Master asked you to prove your sincerit
 QUEST_JOBSTEP_20150317_001399	Report to the Priest Master
 QUEST_JOBSTEP_20150317_001400	Defeated the evil spirit! Return to the Priest Master.
 QUEST_JOBSTEP_20150317_001401	Defeat the embodiment of the evil spirit
-QUEST_JOBSTEP_20150317_001402	Talk to the Wizard Master
-QUEST_JOBSTEP_20150317_001403	Go to the Wizard Master in Klaipeda
-QUEST_JOBSTEP_20150317_001404	Collect the materials for the Wizard Master
+QUEST_JOBSTEP_20150317_001402	Parler au maître des mages
+QUEST_JOBSTEP_20150317_001403	Allez voir le maître des mages à Klaipeda
+QUEST_JOBSTEP_20150317_001404	Collecter les matériaux pour le maître des mages
 QUEST_JOBSTEP_20150317_001405	{memo X}Collect the Skins of Grolls in Spine Heart Dale, Feelers of Chafperors in Fallen Worry Forest, and the nucleuses of Yukopuses from Siauliai Miners' Village.
-QUEST_JOBSTEP_20150317_001406	Give the materials to the Wizard Master
+QUEST_JOBSTEP_20150317_001406	Donner les matériaux au maître des mages
 QUEST_JOBSTEP_20150317_001407	Collected the materials for the Wizard Master. Give it to him.
 QUEST_JOBSTEP_20150317_001408	{memo X}Collect %s from Spine Heart Dale
 QUEST_JOBSTEP_20150317_001409	{memo X}Collect %s from Fallen Worry Forest
@@ -3136,3 +3136,4 @@ QUEST_JOBSTEP_20150908_003135	Put the Sun Essence on the place that was protecte
 QUEST_JOBSTEP_20150908_003136	It's an empty box
 QUEST_JOBSTEP_20150908_003137	Explaining the situation
 QUEST_JOBSTEP_20150908_003138	Explaining what you heard
+
