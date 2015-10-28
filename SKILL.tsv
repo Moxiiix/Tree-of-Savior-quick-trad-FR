@@ -917,7 +917,7 @@ SKILL_20150317_000916	[Helgasercle Card] Physical Dark Property Slash
 SKILL_20150317_000917	[Yekub Card] Magic Dark Property Strike
 SKILL_20150317_000918	[Physical Shield] Non-Property Magic
 SKILL_20150317_000919	[Sparnasman Card] Physical Non-Property Magic
-SKILL_20150317_000920	Thrust
+SKILL_20150317_000920	Coup perçant
 SKILL_20150317_000921	{memo X}{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Pierce and push back an enemy.
 SKILL_20150317_000922	{memo X}Attack #{SkillAtkAdd}#{nl}Splash #{SkillSR}#
 SKILL_20150317_000923	Bash
@@ -1040,7 +1040,7 @@ SKILL_20150317_001039	Skirmisher
 SKILL_20150317_001040	Change Direction
 SKILL_20150317_001041	Deeds of Valor
 SKILL_20150317_001042	{memo X}$Increases your attack speed and attack rate when attacked, while decreasing your defense.
-SKILL_20150317_001043	Pain Barrier
+SKILL_20150317_001043	Barrière de souffrance
 SKILL_20150317_001044	{memo X}Increased Movement Speed +#{CaptionTime}# for #{CaptionRatio}#% seconds
 SKILL_20150317_001045	Mordschlag
 SKILL_20150317_001046	{memo X}{#CC3300}{ol}[Pierce]{/}{/} Attribute{nl}Damage #{SkillFactor}#%{nl}Splash #{SkillSR}#{nl} Consumption SP #{SpendSP}#
@@ -3189,7 +3189,7 @@ SKILL_20150401_003188	{memo X}Change direction of formation
 SKILL_20150401_003189	{memo X}The direction you face become front
 SKILL_20150401_003190	When taking damage, your attack speed and attack are increased, but your defense is decreased.
 SKILL_20150401_003191	{memo X}Attack + #{CaptionRatio}#% {nl}Defense - #{CaptionRatio}#%{nl}Max. repeat #{CaptionRatio2}# times{nl}Duration #{CaptionTime}# seconds
-SKILL_20150401_003192	Temporarily grants a high resistance to being affected by knock back, knock down or staggered.
+SKILL_20150401_003192	Empêche temporairement d'être           étourdi, repoussé, ou de tomber.
 SKILL_20150401_003193	{memo X}{#DD5500}{ol}[Physical] - [Strike]{/}{/}{nl}Use back of sword to smack down enemy.
 SKILL_20150401_003194	{memo X}Kill the enemy within set attack counts for additional EXP and rewards. But damage and Incapable of combate penalty also increases while the effects last.
 SKILL_20150401_003195	Attack Limit: #{CaptionRatio}#{nl}2x EXP & Drop Rate
@@ -3603,7 +3603,7 @@ SKILL_20150406_003602	[Pardoner] Craft Anti-Magic
 SKILL_20150414_003603	Shovelling
 SKILL_20150414_003604	Detect metal
 SKILL_20150414_003605	Water spray
-SKILL_20150414_003606	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Push the point of your weapon into enemies, performing a strong piercing attack.
+SKILL_20150414_003606	{#DD5500}{ol}[Physical] - [Pierce]{/}{/}{nl}Transperce et repousse en arrière l'ennemi avec la pointe de l'arme.
 SKILL_20150414_003607	{#DD5500}{ol}[Physical] - [Slash]{/}{/}{nl}Inflicts damage to an enemy with a powerful attack.
 SKILL_20150414_003608	Become determined by temporarily increasing your attack, while decreasing your defense.
 SKILL_20150414_003609	Increases your attack damage.
